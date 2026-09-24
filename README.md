@@ -5,10 +5,8 @@ Sistema para controle de equipamentos, histórico de manutenções, técnicos, p
 ## Diagramas
 
 ### MER / DER Conceitual
-![DER Conceitual](der_conceitual.png)
 
 ### MER / DER Lógico
-![DER Lógico](der_logico.png)
 
 ---
 
