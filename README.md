@@ -29,7 +29,7 @@ Sistema para controle de equipamentos, histórico de manutenções, técnicos, p
 
 ## Arquivos do Projeto
 
-*   **Dados de Teste:** [Pasta com os arquivos .CSV](data/)
+*   **Dados de Teste:**
 *   **Script DDL:**
 ```
 
